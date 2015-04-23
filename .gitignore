@@ -1,0 +1,15 @@
+/system
+/nbproject
+ReadMe.txt
+Capture.PNG
+index.php
+/assets/font
+/application/cache
+/application/core
+/application/helpers
+/application/hooks
+/application/language
+/application/third_party
+/application/models
+/application/logs
+/application/libraries
