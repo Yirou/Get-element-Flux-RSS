@@ -13,3 +13,4 @@ index.php
 /application/models
 /application/logs
 /application/libraries
+.gitignore
